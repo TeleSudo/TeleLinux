@@ -19,7 +19,7 @@ memUsed_m=$(($memTotal_m-$memFree_m-$memBuffer_m-$memCache_m))
 
 memUsedPrc=$((($memUsed_b*100)/$memTotal_b))
 
-echo "🔱 TeleCli Server Info:"
+echo "🔱 Server Info:"
 echo "➖➖➖➖"
 echo "✅ Memory: $memUsed_m MB (4 GB) \n💠 $memUsedPrc% used !"
 echo "➖➖"
