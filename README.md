@@ -18,7 +18,7 @@ chmod +x launch.sh
 ./launch.sh # Enter a phone number & confirmation code.
 ```
 
-Developer And Editoe: [@Tele_sudo](https://telegram.me/iampoker)
+Developer And Editoe: [@Tele_sudo](https://telegram.me/ThatsEnd)
 
 
-Channels: [@lua_errors](https://telegram.me/lua_errors)
+Channels: [@LuaError](https://telegram.me/LuaError)
